@@ -1,0 +1,19 @@
+{
+  "index.html": {
+    "file": "assets/index.dd99aee4.js",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_vendor.4125dd7a.js"
+    ],
+    "css": [
+      "assets/index.62f502b0.css"
+    ],
+    "assets": [
+      "assets/logo.ecc203fb.svg"
+    ]
+  },
+  "_vendor.4125dd7a.js": {
+    "file": "assets/vendor.4125dd7a.js"
+  }
+}
